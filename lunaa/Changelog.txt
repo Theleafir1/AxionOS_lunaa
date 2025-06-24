@@ -1,7 +1,11 @@
 Source Changelog:
 
-• None
+• Merged android-16.0.0_r1
+• Settings: Adapt new DoubleTapPower page to fit our gesture settings
 
 Device Changelogs:
 
-• Fixed always on fingerprint where issue on auto touch
+• Initial A16 Build(BETA)
+• Freeform broken
+• UDFPS Overlay broken(it recognizes the touch and register and also working fine Without any issues)
+• You can do OTA Update if You On A15 build take Backup For Safty
