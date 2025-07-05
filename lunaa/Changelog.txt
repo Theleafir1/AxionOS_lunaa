@@ -1,4 +1,5 @@
-Changelog:
+• Fixed media server crash(media rendering issue)
+• Kernel Upstreamed to 5.4.293
 
-• Synced With latest Source
-• Freeform removed for now
+Bugs:
+• UDFPS Overlay broken(it recognizes the touch and register and also working fine Without any issues)
