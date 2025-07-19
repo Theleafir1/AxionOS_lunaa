@@ -45,8 +45,11 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 
 - Always back up your data before starting the installation. 
 
-## Support My Work
+### • Downloads:
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mvimal2607/yaap_lunaa/total?style=for-the-badge&label=YAAP-VANILLA&color=blue)
+
+## Support My Work
 If you find my work on this project helpful, please consider supporting me through a donation:
 
 - [GitHub Sponsor](https://github.com/sponsors/mvimal2607)
