@@ -10,8 +10,8 @@
 - Download the [YAAP Recovery](https://github.com/mvimal2607/YAAP_lunaa/releases/download/YAAP-15-HOMEMADE-lunaa-20250523/yaap_recovery.zip) file and extract it to a folder on your computer.
 
 2. Flash the Recovery
-- On Linux: Run the <b>flash.sh</b> script.
-- On Windows: Run the <b>flash.bat</b> script.
+- On Linux: Run the `flash.sh` script.
+- On Windows: Run the `flash.bat`script.
 This will flash the recovery and automatically boot your device into the YAAP recovery mode.
 
 3. Wipe Data
@@ -19,7 +19,10 @@ In the recovery menu, select "Wipe data/factory reset" to clear existing data on
 
 4. Sideload YAAP
 Use the following command in a terminal or command prompt to sideload the YAAP zip file:
-``` adb sideload <path-to-filename.zip> ```
+
+```
+adb sideload <path-to-filename.zip>
+```
 
 5. Wait for Completion
 The sideload process will progress to 94% before finishing. This is normal—be patient until it completes.
@@ -33,7 +36,10 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 
 2. Sideload YAAP
 Use the following command in a terminal or command prompt to sideload the YAAP zip file:
-``` adb sideload <path-to-filename.zip> ```
+
+``` 
+adb sideload <path-to-filename.zip>
+```
 
 3. Wait for Completion
 The sideload process will progress to 94% before finishing. This is normal—be patient until it completes.
