@@ -1,6 +1,7 @@
-• Add system-wide support for DC Dimming (+ QS tile)
-• Make internet tile to be added by default on first boot
-• Migrate to QTI USB Gadget AIDL HAL
-• Switch to NCM USB tethering
+• Add support for daily and weekly data usage cycles
+• Add back OmniJaw as lock screen weather provider
+• Fix gaming macro showing unavailable color modes on some devices
+• Add back all OmniJaw related settings
 • Few other minor changes
-• Sync with latest source
+• Latest Source sync
+• Kernel UPSTREAM 5.4.295
