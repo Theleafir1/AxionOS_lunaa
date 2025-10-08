@@ -1,7 +1,4 @@
-• Add support for daily and weekly data usage cycles
-• Add back OmniJaw as lock screen weather provider
-• Fix gaming macro showing unavailable color modes on some devices
-• Add back all OmniJaw related settings
-• Few other minor changes
+• Apply September security patches
+• Add Roboto Flex font
 • Latest Source sync
-• Kernel UPSTREAM 5.4.295
+• Kernel UPSTREAM 5.4.296 With ziti source
