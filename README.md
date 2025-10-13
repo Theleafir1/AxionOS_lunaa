@@ -1,24 +1,24 @@
-# YAAP-Releases
+# AxionOS
 
 ## Realme gt master edition [RMX3360/61/63]
 
 ## Flashing Instructions
 
-<b>To install YAAP on the Realme GT Master Edition (codename: lunaa), follow these steps:</b>
+<b>To install AxionOS on the Realme GT Master Edition (codename: lunaa), follow these steps:</b>
 
 1. Download Recovery
-- Download the [YAAP Recovery](https://github.com/mvimal2607/YAAP_lunaa/releases/download/YAAP-15-HOMEMADE-lunaa-20250523/yaap_recovery.zip) file and extract it to a folder on your computer.
+- Download the [los Recovery](https://drive.google.com/file/d/1UHa-wNhLdAA3zIgj2tqfAADIH7SuSoPd/view) file and extract it to a folder on your computer.
 
 2. Flash the Recovery
 - On Linux: Run the `flash.sh` script.
 - On Windows: Run the `flash.bat`script.
-This will flash the recovery and automatically boot your device into the YAAP recovery mode.
+This will flash the recovery and automatically boot your device into the recovery mode.
 
 3. Wipe Data
 In the recovery menu, select "Wipe data/factory reset" to clear existing data on the device.
 
 4. Sideload YAAP
-Use the following command in a terminal or command prompt to sideload the YAAP zip file:
+Use the following command in a terminal or command prompt to sideload the AxionOS zip file:
 
 ```
 adb sideload <path-to-filename.zip>
@@ -34,8 +34,8 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 
 1. Reboot to Recovery 
 
-2. Sideload YAAP
-Use the following command in a terminal or command prompt to sideload the YAAP zip file:
+2. Sideload AxionOS
+Use the following command in a terminal or command prompt to sideload the AxionOS zip file:
 
 ``` 
 adb sideload <path-to-filename.zip>
@@ -45,20 +45,8 @@ adb sideload <path-to-filename.zip>
 The sideload process will progress to 94% before finishing. This is normal—be patient until it completes.
 
 4. Reboot
-Once the sideload is done, select "Reboot system now" from the recovery menu. Congratulations! You’ve successfully flashed YAAP!
+Once the sideload is done, select "Reboot system now" from the recovery menu. Congratulations! You’ve successfully flashed AxionOS!
 
 ## Notes
 
 - Always back up your data before starting the installation. 
-
-### • Downloads:
-
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mvimal2607/yaap_lunaa/total?style=for-the-badge&label=YAAP-VANILLA&color=blue)
-
-## Support My Work
-If you find my work on this project helpful, please consider supporting me through a donation:
-
-- [GitHub Sponsor](https://github.com/sponsors/mvimal2607)
-- [PayPal](http://paypal.me/Vimal2607)
-
-Why Donations Matter for AOSP Projects? [read here](https://github.com/mvimal2607/.github?tab=readme-ov-file#why-donations-matter-for-aosp-projects).
