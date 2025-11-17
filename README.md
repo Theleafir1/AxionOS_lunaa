@@ -8,7 +8,7 @@
 
 1. Download Recovery
 - Download the [los Recovery](
-  https://github.com/Theleafir1/android_device_realme_lunaa_axionaosp/releases/download/Recovery/los_recovery.zip) file and extract it to a folder on your computer.
+  https://sourceforge.net/projects/axionos-lunaa/files/Recovery/recovery.zip/download) file and extract it to a folder on your computer.
 
 2. Flash the Recovery
 - On Linux: Run the `flash.sh` script.
