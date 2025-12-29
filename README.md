@@ -26,10 +26,10 @@ adb sideload <path-to-filename.zip>
 ```
 
 5. Wait for Completion
-The sideload process will progress to 94% before finishing. This is normal—be patient until it completes.
+The sideload process will progress to 47% before finishing. This is normal—be patient until it completes.
 
 6. Reboot
-Once the sideload is done, select "Reboot system now" from the recovery menu. Congratulations! You’ve successfully flashed YAAP!
+Once the sideload is done, select "Reboot system now" from the recovery menu. Congratulations! You’ve successfully flashed AxionOS!
 
 ## Dirty Flash
 
