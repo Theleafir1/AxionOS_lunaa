@@ -1,4 +1,0 @@
-• Apply September security patches
-• Add Roboto Flex font
-• Latest Source sync
-• Kernel UPSTREAM 5.4.296 With ziti source
